@@ -1,3 +1,10 @@
+# Evaluating the Impact of Socioeconomic Factors on Student Academic Performance
+
+> **Author:** [Zemen Matebe Ghelaw](https://github.com/ghelaw01) — Data Scientist & AI/ML Specialist
+> **Repository:** [`ghelaw01/Evaluating-the-Impact-of-Socioeconomic-Factors-on-Student`](https://github.com/ghelaw01/Evaluating-the-Impact-of-Socioeconomic-Factors-on-Student)
+
+Research project analyzing how socioeconomic factors—parental education, economic status, and access to educational resources—influence student achievement in math, reading, and writing.
+
 Socioeconomic Factors and Student Academic Performance
 Overview
 This repository contains the research project "Evaluating the Impact of Socioeconomic Factors on Student Academic Performance." The study analyzes how socioeconomic factors such as parental education, economic status, and access to educational resources influence student achievement in math, reading, and writing.
@@ -61,3 +68,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 Data source: Kaggle "Students Performance in Exams" dataset
 R Core Team and package developers
+
+---
+
+<sub><b>Author:</b> Zemen Matebe Ghelaw (also: Zemen Ghelaw, Zemen M. Ghelaw) — Data Scientist & AI/ML Specialist based in Washington, D.C. · <a href="https://github.com/ghelaw01">github.com/ghelaw01</a><br><b>Keywords:</b> socioeconomic factors · education research · student performance · statistics · regression analysis · Zemen Matebe Ghelaw</sub>
